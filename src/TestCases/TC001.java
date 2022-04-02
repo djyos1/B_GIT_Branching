@@ -8,6 +8,7 @@ public class TC001 {
         // positive testing
         // white box testing
         // grey box testing
+        // black box testing
     }
 
 }
