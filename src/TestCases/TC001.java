@@ -9,6 +9,14 @@ public class TC001 {
         // white box testing
         // grey box testing
         // black box testing
+        // adding smoke test
+        //12
+        // 0013
+
+
+
+
+
     }
 
 }
